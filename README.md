@@ -5,7 +5,9 @@ Image editor app created with help of streamlit and PIL package
 ## Required Packages:
 
 -> Streamlit 
+
 -> PIL
+
 -> from PIL (Image Filter)
 
 ## Operations carried out:
